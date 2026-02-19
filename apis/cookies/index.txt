@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Sat, 29 Nov 2025 00:18:42 GMT
+Cache-control: private
+Set-Cookie: SESSION=56ff3c2eab9fedf1b180ce23479171a48bda13be13284e7cefe71ba830aecb73
+Set-Cookie: ID=674045
+Location: http://sisregiii.saude.gov.br/cgi-bin/index
+Content-Length: 227
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: TS019395b4=0140e3e4e5f7c5a5cd424be9be97bc40177aa98a36461ad2392b7ff8a3ee51682606ef81385431e8f106a44bafe96b669b5ad35bae; Path=/
