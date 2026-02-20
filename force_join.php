@@ -15,10 +15,10 @@
 if (!defined('FORCE_JOIN_ENABLED')) define('FORCE_JOIN_ENABLED', true);
 
 // ID numérico do canal (ex.: -1001234567890)
-if (!defined('FORCE_JOIN_CHAT_ID')) define('FORCE_JOIN_CHAT_ID', -1002573461775);
+if (!defined('FORCE_JOIN_CHAT_ID')) define('FORCE_JOIN_CHAT_ID', -1001735827798);
 
 // Link do canal para o botão
-if (!defined('FORCE_JOIN_CHANNEL')) define('FORCE_JOIN_CHANNEL', 'https://t.me/GonzalesCanal');
+if (!defined('FORCE_JOIN_CHANNEL')) define('FORCE_JOIN_CHANNEL', 'https://t.me/puxadasgratis21');
 
 // Texto principal do gate (profissional)
 if (!defined('FORCE_JOIN_TEXT')) define('FORCE_JOIN_TEXT',
@@ -173,4 +173,5 @@ function force_join_handle_callback(array $cb): bool {
   }
 
   return true;
+
 }
