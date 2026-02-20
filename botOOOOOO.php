@@ -8,10 +8,10 @@ const LOG_FILE      = __DIR__ . '/bot.log';
 const CONSULTAS_DIR = __DIR__ . '/consultas';
 
 // @ do bot (sem @ aqui)
-const BOT_USERNAME  = 'EmonNullbot';
+const BOT_USERNAME  = 'Puxadasvip_bot';
 
 // 👑 ID do dono/admin do bot (sem restrições de antiflood)
-const ADMIN_ID = 7505318236;
+const ADMIN_ID = 1735827798;
 
 // Auto-delete em grupos (segundos)
 if (!defined('AUTO_DELETE_SECONDS')) define('AUTO_DELETE_SECONDS', 60);
@@ -754,7 +754,7 @@ function keyboard_main_private(int $ownerId): array {
       ],
       [
         ['text'=>'🪪 Consultas',"callback_data"=>"MENU_CONSULTAS|$ownerId"],
-        ['text'=>'📢 Canal','url'=>'https://t.me/GonzalesCanal']
+        ['text'=>'📢 Canal','url'=>'https://t.me/puxadasgratis21']
       ],
       [
         ['text'=>'⚙️ Gerenciar Grupos',"callback_data"=>"GER_GRUPOS|$ownerId"]
@@ -765,7 +765,7 @@ function keyboard_main_private(int $ownerId): array {
       ],
       // ✅ SUPORTE
       [
-        ['text'=>'🆘 Suporte','url'=>'https://t.me/GonzalesDev']
+        ['text'=>'🆘 Suporte','url'=>'https://t.me/Leoiptv1']
       ]
     ]
   ];
@@ -779,7 +779,7 @@ function keyboard_main_group(int $ownerId): array {
       ],
       [
         ['text'=>'🪪 Consultas',"callback_data"=>"MENU_CONSULTAS|$ownerId"],
-        ['text'=>'📢 Canal','url'=>'https://t.me/GonzalesCanal']
+        ['text'=>'📢 Canal','url'=>'https://t.me/puxadasgratis21']
       ]
     ]
   ];
@@ -3179,6 +3179,7 @@ Realize consultas completas com rapidez e total segurança.
 }
 
 echo 'ok';
+
 
 
 
