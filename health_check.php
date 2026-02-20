@@ -109,7 +109,7 @@ class HealthCheck {
      * Verifica API do Telegram
      */
     private function checkTelegramAPI(): void {
-        $token = '8142774636:AAGjs1oiZTatk56qNIIg0r0hYTAfy8A0O0E';
+        $token = '6380042796:AAFcRK0R3ImXfbYzm19zK_al0HUmkCOdbvY';
         $url = "https://api.telegram.org/bot{$token}/getMe";
         
         $start = microtime(true);
