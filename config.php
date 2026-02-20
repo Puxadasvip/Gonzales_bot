@@ -54,7 +54,7 @@ return [
     // ===== FORCE JOIN =====
     'force_join' => [
         'enabled' => true,
-        'chat_id' => -1002573461775,
+        'chat_id' => -1001735827798,
         'channel_url' => 'https://t.me/puxadasgratis21',
         'only_private' => true, // não exige em grupos
     ],
@@ -143,4 +143,5 @@ return [
         'channel_url' => 'https://t.me/puxadasgratis21',
     ],
 ];
+
 
