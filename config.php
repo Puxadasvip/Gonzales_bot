@@ -13,9 +13,9 @@ return [
     
     // ===== BOT TELEGRAM =====
     'bot' => [
-        'token' => 'BOT_TOKEN',
-        'username' => 'EmonNullbot',
-        'admin_id' => 7505318236,
+        'token' => '6380042796:AAFcRK0R3ImXfbYzm19zK_al0HUmkCOdbvY',
+        'username' => 'Puxadasvip_bot',
+        'admin_id' => 1735827798,
     ],
     
     // ===== BANCO DE DADOS =====
@@ -55,7 +55,7 @@ return [
     'force_join' => [
         'enabled' => true,
         'chat_id' => -1002573461775,
-        'channel_url' => 'https://t.me/GonzalesCanal',
+        'channel_url' => 'https://t.me/puxadasgratis21',
         'only_private' => true, // não exige em grupos
     ],
     
@@ -139,7 +139,8 @@ return [
     
     // ===== MENSAGENS =====
     'messages' => [
-        'support_url' => 'https://t.me/GonzalesDev',
-        'channel_url' => 'https://t.me/GonzalesCanal',
+        'support_url' => 'https://t.me/Leoiptv1',
+        'channel_url' => 'https://t.me/puxadasgratis21',
     ],
 ];
+
